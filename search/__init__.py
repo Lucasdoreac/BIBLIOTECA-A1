@@ -1,0 +1,1 @@
+# Módulo de algoritmos de busca

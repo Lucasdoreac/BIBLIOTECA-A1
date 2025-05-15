@@ -1,0 +1,1 @@
+# Módulo de implementação de hashing e mapa

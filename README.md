@@ -2,10 +2,10 @@
 
 ## 👥 Integrantes
 - **Alef Kethab**
-- **Arthur Oliveira**
-- **Arthur Ricarte**
-- **Deivid Cerqueira**
-- **Lucas Cardoso**
+- **Arthur Oliveira Lima** - RGM: 44139501
+- **Arthur Fernandes Franco Ricarte** - RGM: 38296152
+- **Deivid Cerqueira** - RGM: 39670953
+- **Lucas Dórea Cardoso** - RGM: 37277782
 
 ## Descrição
 Este projeto implementa algoritmos fundamentais de busca e ordenação em Python, além de conceitos avançados como hashing e o tipo abstrato de dado mapa (map). Inclui também uma aplicação prática integrando múltiplas estruturas de dados.

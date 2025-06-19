@@ -1,5 +1,12 @@
 # PROJETO-A1: Algoritmos de Busca e Ordenação
 
+## 👥 Integrantes
+- **Alef Kethab**
+- **Arthur Oliveira**
+- **Arthur Ricarte**
+- **Deivid Cerqueira**
+- **Lucas Cardoso**
+
 ## Descrição
 Este projeto implementa algoritmos fundamentais de busca e ordenação em Python, além de conceitos avançados como hashing e o tipo abstrato de dado mapa (map). Inclui também uma aplicação prática integrando múltiplas estruturas de dados.
 

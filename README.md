@@ -1,7 +1,7 @@
 # PROJETO-A1: Algoritmos de Busca e Ordenação
 
 ## 👥 Integrantes
-- **Alef Kethab**
+- **Alef Kethab** - RGM: 3188155
 - **Arthur Oliveira Lima** - RGM: 44139501
 - **Arthur Fernandes Franco Ricarte** - RGM: 38296152
 - **Deivid Cerqueira** - RGM: 39670953

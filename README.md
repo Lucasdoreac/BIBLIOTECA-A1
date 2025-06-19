@@ -8,7 +8,7 @@
 - **Lucas Dórea Cardoso** - RGM: 37277782
 
 ## Descrição
-Este projeto implementa algoritmos fundamentais de busca e ordenação em Python, além de conceitos avançados como hashing e o tipo abstrato de dado mapa (map). Inclui também uma aplicação prática integrando múltiplas estruturas de dados.
+Este projeto implementa algoritmos fundamentais de busca e ordenação em Python, além de conceitos avançados como hashing e o tipo abstrato de dado mapa (map). Inclui também uma aplicação prática integrando múltiplas estruturas de dados
 
 ## Objetivos
 - Implementar algoritmos de busca: sequencial e binária

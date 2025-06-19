@@ -4,10 +4,10 @@ Sistema desenvolvido em Python que demonstra a implementação e integração de
 
 ## 👥 Desenvolvido por
 - **Alef Kethab**
-- **Arthur Oliveira**
-- **Arthur Ricarte**
-- **Deivid Cerqueira**
-- **Lucas Cardoso**
+- **Arthur Oliveira Lima** - RGM: 44139501
+- **Arthur Fernandes Franco Ricarte** - RGM: 38296152
+- **Deivid Cerqueira** - RGM: 39670953
+- **Lucas Dórea Cardoso** - RGM: 37277782
 
 ## 📚 Estruturas de Dados Implementadas
 

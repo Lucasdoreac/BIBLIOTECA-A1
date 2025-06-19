@@ -1,4 +1,4 @@
-# PROJETO-A1: Algoritmos de Busca e Ordenação
+# 📚 Biblioteca Digital - PROJETO-A1: Algoritmos de Busca e Ordenação
 
 ## 👥 Integrantes
 - **Alef Kethab** - RGM: 3188155

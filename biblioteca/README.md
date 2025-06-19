@@ -2,6 +2,13 @@
 
 Sistema desenvolvido em Python que demonstra a implementação e integração de diferentes estruturas de dados em um projeto prático e funcional.
 
+## 👥 Desenvolvido por
+- **Alef Kethab**
+- **Arthur Oliveira**
+- **Arthur Ricarte**
+- **Deivid Cerqueira**
+- **Lucas Cardoso**
+
 ## 📚 Estruturas de Dados Implementadas
 
 - **Lista**: Armazenamento principal de todos os livros
@@ -57,6 +64,7 @@ biblioteca/
 ├── grafo.py          # Grafo para recomendações
 ├── hash_table.py     # Tabela Hash (demonstrativa)
 ├── main.py           # Sistema principal
+├── exemplo.py        # Demonstração automática
 └── README.md         # Esta documentação
 ```
 

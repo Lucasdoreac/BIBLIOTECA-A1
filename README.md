@@ -1,7 +1,7 @@
 # 📚 Biblioteca Digital - PROJETO-A1: Algoritmos de Busca e Ordenação
 
 ## 👥 Integrantes
-- **Alef Kethab** - RGM: 3188155
+- **Alef Kethab** - RGM: 318815575
 - **Arthur Oliveira Lima** - RGM: 44139501
 - **Arthur Fernandes Franco Ricarte** - RGM: 38296152
 - **Deivid Cerqueira** - RGM: 39670953
@@ -47,5 +47,5 @@ python exemplo.py       # Demonstração automática
 - Estruturas de dados implementadas do zero
 
 ## Importância
-Este projeto é fundamental para consolidar o conhecimento e aplicação prática de algoritmos essenciais para o desenvolvimento de sistemas eficientes e sustentáveis, com foco na otimização de recursos computacionais e na integração de múltiplas estruturas de dados em soluções reais.
-#
+Este projeto reveste-se de grande importância, pois visa consolidar o conhecimento e a aplicação prática de algoritmos fundamentais para o desenvolvimento de sistemas eficientes e sustentáveis. Seu foco está na otimização de recursos computacionais, bem como na integração de diversas estruturas de dados, com o objetivo de oferecer soluções aplicáveis e eficazes em cenários reais.
+

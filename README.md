@@ -48,3 +48,4 @@ python exemplo.py       # Demonstração automática
 
 ## Importância
 Este projeto é fundamental para consolidar o conhecimento e aplicação prática de algoritmos essenciais para o desenvolvimento de sistemas eficientes e sustentáveis, com foco na otimização de recursos computacionais e na integração de múltiplas estruturas de dados em soluções reais.
+#
